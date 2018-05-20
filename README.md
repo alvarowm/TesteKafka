@@ -1,3 +1,3 @@
 # TesteKafka
 
-Um simples exemplo de como utilizar o apache Kafka.
+Um simples exemplo de como utilizar o apache Kafka criando um consumer.
